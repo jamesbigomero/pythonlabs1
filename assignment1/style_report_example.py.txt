@@ -1,0 +1,82 @@
+=== File Structure ===
+Total lines of code: 367
+Imported packages: json
+Classes: Item, Weapon, Shield, Potion, Item, Weapon, Shield, Potion, Item, Weapon, OneHandedWeapon, TwoHandedWeapon, Pike, RangeWeapon, Inventory, Item, Weapon, Potion, Shield, Inventory, Weapon, Potion, Shield, Inventory
+Functions: Inventory_to_json, Inventory_inventory_json_encoder, Inventory___init__, Inventory_pick_up, Inventory_throw_away, Inventory_use, Inventory___str__, Inventory___init__, Inventory_equip, Inventory_use, Inventory___init__, Inventory_equip, Inventory_use, Inventory___init__, Inventory_use, Inventory_from_ability, Inventory___init__, Inventory_pick_up, Inventory_throw_away, Inventory_use, Inventory___str__, Inventory___init__, Inventory_equip, Inventory_use, Inventory___init__, Inventory_equip, Inventory_use, Inventory___init__, Inventory_use, Inventory_from_ability, Inventory___init__, Inventory___str__, Inventory___init__, Inventory_attack_move, Inventory___str__, Inventory_attack_move, Inventory_attack_move, Inventory_attack_move, Inventory_attack_move, Inventory___init__, Inventory_add_item, Inventory_remove_item, Inventory_view, Inventory_to_json, Inventory___init__, Inventory_to_json, Inventory___init__, Inventory_to_json, Inventory___init__, Inventory_to_json, Inventory___init__, Inventory_add_item, Inventory_from_json, Inventory_from_json, Inventory_from_json, Inventory_from_json
+
+=== DocStrings ===
+Item:
+class Item: DocString not found.
+
+Weapon:
+class Weapon: DocString not found.
+
+Shield:
+class Shield: DocString not found.
+
+Potion:
+class Potion: DocString not found.
+
+OneHandedWeapon:
+class OneHandedWeapon: DocString not found.
+
+TwoHandedWeapon:
+class TwoHandedWeapon: DocString not found.
+
+Pike:
+class Pike: DocString not found.
+
+RangeWeapon:
+class RangeWeapon: DocString not found.
+
+Inventory:
+class Inventory: DocString not found.
+
+to_json:
+function to_json: DocString not found.
+
+inventory_json_encoder:
+function inventory_json_encoder: DocString not found.
+
+__init__:
+function __init__: DocString not found.
+
+pick_up:
+function pick_up: DocString not found.
+
+throw_away:
+function throw_away: DocString not found.
+
+use:
+function use: DocString not found.
+
+__str__:
+function __str__: DocString not found.
+
+equip:
+function equip: DocString not found.
+
+from_ability:
+function from_ability: DocString not found.
+
+attack_move:
+function attack_move: DocString not found.
+
+add_item:
+function add_item: DocString not found.
+
+remove_item:
+function remove_item: DocString not found.
+
+view:
+function view: DocString not found.
+
+from_json:
+function from_json: DocString not found.
+
+
+=== Type Annotations ===
+Functions/methods without type annotations: to_json, inventory_json_encoder, __init__, throw_away, use, __str__, __init__, equip, use, __init__, equip, use, __init__, use, from_ability, __init__, throw_away, use, __str__, __init__, equip, use, __init__, equip, use, __init__, use, from_ability, __init__, __str__, __init__, attack_move, __str__, attack_move, attack_move, attack_move, attack_move, __init__, add_item, remove_item, view, to_json, __init__, to_json, __init__, to_json, __init__, to_json, __init__, add_item, from_json, from_json, from_json, from_json
+
+=== Naming Conventions ===
+All names adhere to the specified naming conventions.
